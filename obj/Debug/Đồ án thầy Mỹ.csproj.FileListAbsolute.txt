@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\bin\Debug\Đồ án thầy Mỹ.exe.config
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\bin\Debug\Đồ án thầy Mỹ.exe
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\bin\Debug\Đồ án thầy Mỹ.pdb
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ án thầy Mỹ.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ_án_thầy_Mỹ.Form1.resources
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ_án_thầy_Mỹ.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ án thầy Mỹ.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ án thầy Mỹ.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ án thầy Mỹ.exe
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ án thầy Mỹ.pdb
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ_án_thầy_Mỹ.Form3.resources
+C:\Users\ASUS\source\repos\Đồ án thầy Mỹ\obj\Debug\Đồ_án_thầy_Mỹ.quản_lý_trọ_sinh_viên.resources
